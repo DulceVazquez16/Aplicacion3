@@ -7,10 +7,10 @@
 		
 	<!--versioncode is optional and Android only-->
 	
-	<name>Aplicacion uno DATOSALUMNOS</name>
+	<name>Aplicacion tres</name>
 	
 	<description>
-	    Aplicacion que muestra DATOS del Alimno
+           Este es mi aplicacion tres
 		</description>
 		
 		<preference name="phonegap-version" value="3.1.0"/>
